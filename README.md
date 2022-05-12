@@ -1,8 +1,8 @@
 # Energy-efficiency-of-buildings-project
 
 ### Target variables:
-    * The heating load (y1) is the amount of heat energy that would **need to be added** to a space to maintain the temperature in an acceptable range. 
-    * The cooling load (y2) is the amount of heat energy that would **need to be removed** from a space (cooling) to maintain the temperature in an acceptable range.
+   * The heating load (y1) is the amount of heat energy that would **need to be added** to a space to maintain the temperature in an acceptable range. 
+   * The cooling load (y2) is the amount of heat energy that would **need to be removed** from a space (cooling) to maintain the temperature in an acceptable range.
     
 ### Features:
     * X1 - Relative Compactness
